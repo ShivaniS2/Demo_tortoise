@@ -1,0 +1,7 @@
+While running the script on Madhura's QA3 environment it gave 'Timeout Async Callback not invoked' error.
+
+
+While running the script on Madhura's Dev Environment it gave 'Unhandled Promise Rejection Warning Timeout Error'
+While running the same script on Karishma's Dev Environment gaves '404 server error' and
+When manually tried on Karishma's Environment is sometimes successful or sometimes gives no response for eventId given to Quicksearch.
+When manually tried no response madhura for eventId given to Quicksearch.
